@@ -1,0 +1,8 @@
+react
+react-dom
+axios
+@fortawesome/react-fontawesome
+@fortawesome/free-solid-svg-icons
+tailwindcss
+autoprefixer
+postcss
