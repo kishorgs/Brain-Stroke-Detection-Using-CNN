@@ -4,7 +4,8 @@
 
 Watch the demo video to see the Brain Stroke Detection model in action:
 
-<img src="img/Demo.gif" alt="Demo Video" width="800" height="500"/>
+![React App - Google Chrome 2024-10-17 23-47-09](https://github.com/user-attachments/assets/2b6996bb-6f1b-46a2-ba5b-4a7fbc49c77a)
+
 
 This video showcases the functionality of the Tkinter-based GUI interface for uploading CT scan images and receiving predictions on whether the image indicates a brain stroke or not.
 
@@ -74,35 +75,42 @@ python stroke_detection_app.py
 **Main Interface**:
 - The application allows you to upload a CT scan image and provides the prediction.
   
-![Demo Video](img/DragAndDropDown.jpg)
+![Screenshot 2024-10-17 235407](https://github.com/user-attachments/assets/5900c302-afac-4497-84c3-94448d35c454)
+
 
 **Output Screens**:
 - Predictions will show either "Stroke" or "No Stroke" based on the uploaded image.
 
 Stroke output :
 
-![Demo Video](img/StrokeImage.jpg)
+![Screenshot 2024-10-17 235519](https://github.com/user-attachments/assets/7153e623-88c5-4562-bcee-a4ef01526f9e)
+
 
 No Stroke output :
 
-![Demo Video](img/NoStrokeImage.jpg)
+![Screenshot 2024-10-17 235606](https://github.com/user-attachments/assets/e2c46410-2499-476d-80f7-5c03809afc6d)
+
 
 **Model Summary**:
 - A detailed architecture overview of the CNN model.
 
-![Demo Video](img/ModelDescription.jpg)
+![Screenshot 2024-09-06 195504](https://github.com/user-attachments/assets/b5a72630-0101-4935-81f5-2705f387840a)
+
 
 **Training Epochs**:
 - Visual representation of accuracy and loss during model training.
 
-![Demo Video](img/EpochOutputs.jpg)
+![EpochOutputs](https://github.com/user-attachments/assets/788323f8-dd9a-47f0-8d5c-359857fcb9f8)
+
 
 **Performance Metrics**:
 - ROC and PR curve graphs to evaluate the performance of the model.
 
-![Demo Video](img/ROCCUrve.jpg)
+![ROCCUrve](https://github.com/user-attachments/assets/10ab3e81-f0d1-4687-bbb9-4b0a8597395a)
 
-![Demo Video](img/PRCurve.jpg)
+
+![PRCurve](https://github.com/user-attachments/assets/60bc8585-8c77-4cee-884d-67234e071c77)
+
 
 ## Results
 
